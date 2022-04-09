@@ -17,7 +17,7 @@
     "d3-force": "^1.1.0",
     "d3-geo": "^1.9.0",
     "jquery": "^3.2.1",
-    "moment": "^2.19.2",
+    "moment": "^2.29.2",
     "querystring": "^0.2.0",
     "whatwg-fetch": "^2.0.3"
   },
